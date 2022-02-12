@@ -19,7 +19,7 @@ elseif game.PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
 
 else
-    game.Players.LocalPlayer:kick("Made By BeouNoPro") wait(1)
+    game.Players.LocalPlayer:kick("Dau Buoi Re Rack") wait(1)
     game:Shutdown()
 end
 
