@@ -9,7 +9,9 @@ elseif game.PlaceId == 6299805723 then
 elseif game.PlaceId == 2377868063 then
 
     loadstring(game:HttpGet("http://gameovers.net/Scripts/Free/HitboxExpander/main.lua", true))()    
-    else
+elseif game.PlaceId == 6284583030 then
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/KuppaHX/MUKUROHUB/main/psxMukuro.lua")()    
+else
     game.Players.LocalPlayer:kick("Nhu Cac") wait(1)
     game:Shutdown()
 end
