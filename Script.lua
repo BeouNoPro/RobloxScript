@@ -13,8 +13,13 @@ elseif game.PlaceId == 2377868063 then
 elseif game.PlaceId == 6284583030 then
        
     loadstring(game:HttpGet"https://raw.githubusercontent.com/KuppaHX/MUKUROHUB/main/psxMukuro.lua")()    
+
+elseif game.PlaceId == 286090429 then
+    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+
 else
-    game.Players.LocalPlayer:kick("Nhu Cac") wait(1)
+    game.Players.LocalPlayer:kick("Made By BeouNoPro") wait(1)
     game:Shutdown()
 end
 
