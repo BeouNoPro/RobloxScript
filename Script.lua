@@ -12,7 +12,7 @@ elseif game.PlaceId == 2377868063 then
 
 elseif game.PlaceId == 6284583030 then
        
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/KuppaHX/MUKUROHUB/main/psxMukuro.lua")()    
+    loadstring(game:HttpGet"https://www.scriptblox.com/raw/SAZA-HUB_496")() 
 
 elseif game.PlaceId == 286090429 then
     
